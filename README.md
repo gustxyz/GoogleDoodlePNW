@@ -1,11 +1,9 @@
 # googleDoodlePNW
-Your topic google doodle
+The doodle will feature landscapes that will invoke a PNW vibe in the style of the firewatch poster found here 
+[name of link](https://s7.postimg.org/yvgvuyrrf/Firewatch-_Cover.jpg)
 
 ## Overview
-Short Description of the topic.Short Description of the topic.
-Short Description of the topic.Short Description of the topic.
-Short Description of the topic.Short Description of the topic.
-Short Description of the topic.Short Description of the topic.
+
 
 ## References
 
@@ -14,6 +12,10 @@ Short Description of the topic.Short Description of the topic.
 3.[name of link](https://)
 
 ## Images for moodboard
+
+![Bird Shadow](http://www.vectorilla.com/wp-content/uploads/2010/02/vector-birds-silhouettes.jpg)
+
+![Tree Shadow](http://www.clker.com/cliparts/f/8/3/a/11970892041055869899Chrisdesign_Tree_silhouettes_3.svg.hi.png)
 
 ![Red landscape](http://wallup.net/wp-content/uploads/2015/12/66430-landscape-artwork-Firewatch-nature-minimalism-video_games-Campo_Santo-748x421.jpg)
 
