@@ -66,8 +66,8 @@ body{
     position: relative;
     overflow: hidden;
     
--webkit-clip-path: circle(28.9% at 50% 50%);
-clip-path: circle(28.9% at 50% 50%);
+  
+    clip-path: circle(28.9% at 50% 50%);
     
 }
 
